@@ -1,0 +1,2 @@
+# petfinder-pawpularity-score
+がんばりまなふぃチームのソリューション
